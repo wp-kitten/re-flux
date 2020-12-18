@@ -1,0 +1,5 @@
+/.cache
+/.idea
+/node_modules
+/res/dist
+package-lock.json
